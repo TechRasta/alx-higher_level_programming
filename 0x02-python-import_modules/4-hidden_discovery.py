@@ -5,4 +5,4 @@ if __name__ == "__main__":
     avoid = "__"
     for i in range(0, len(all_dir)):
         if avoid not in all_dir[i]:
-    print(all_dir[i])
+            print(all_dir[i])
